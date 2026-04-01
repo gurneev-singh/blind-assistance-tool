@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment / Private
+.env
+secret.json
+credentials.json
+
+# IDE / Project
+.vscode/
+.idea/
+.planning/
+task.md
+walkthrough.md
+implementation_plan.md
+
+# Media / OS
+*.jpg
+*.jpeg
+*.png
+*.mp4
+Thumbs.db
+.DS_Store

@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pyttsx3
+python-dotenv
+keyboard
+pillow
+requests
+groq
+google-genai
+pytesseract
+# additional models for V1
+# ultralytics (for YOLO if needed)
